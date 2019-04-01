@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = {"src/test/resources/features"},
         glue = {"com/project/"}
         , dryRun = false
-        , tags = "@Test"
+        , tags = ""
 )
 
 public class CucumberRunner {

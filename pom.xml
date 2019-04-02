@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.cybertek</groupId>
-    <artifactId>bookit-acceptance-tests</artifactId>
+    <groupId>com.project</groupId>
+    <artifactId>NEW_AUTOMATION</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -80,7 +80,7 @@
                     <testFailureIgnore>true</testFailureIgnore>
 
                     <includes>
-                        <include>**/*CukesRunner.java</include>
+                        <include>**/*CucumberRunner.java</include>
                     </includes>
                 </configuration>
             </plugin>

@@ -2,6 +2,9 @@ PROJECT NAME: NEW_AUTOMATION
 
 AUTOMATION FRAMEWORK DETAILS:   Its a Maven project that was designed in a POM structure and contains from Cucumber Feature file, Step Definitions with Implementations written in Java, Config.properties file with test data and pom.xml file that contains all necessary dependencies for the project
 
+DEPENDENCIES:
+Maven, chromedriver.exe, Java 8, JDK, JRE need to be installed
+
 BROWSER: Chrome
 
 URL: http://secure.smartbearsoftware.com/samples/testcomplete11/WebOrders
